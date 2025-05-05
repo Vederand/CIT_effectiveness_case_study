@@ -1,4 +1,6 @@
 # Selenium Python scripts for automating test cases.
+# Test suits written manually and generated with CIT.
+# Results of testing
 
 ## Contains scrips to automate test cases of "Anki" web-based application. Both tests generated manually and with the help of CIT.
 
